@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Heaven and earth, spirit and blood, demanding reall commonwealth-justice: or A letter to the Speaker of the present House of Commons. By Captain William Bray; for his captivity in Windsor-Castle.</title>
+            <author>Bray, William, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77279</idno>
+            <idno type="STC">Wing B4303</idno>
+            <idno type="STC">Thomason E562_9</idno>
+            <idno type="STC">ESTC R206078</idno>
+            <idno type="EEBO-CITATION">99865266</idno>
+            <idno type="PROQUEST">99865266</idno>
+            <idno type="VID">165230</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77279)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165230)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E562[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Heaven and earth, spirit and blood, demanding reall commonwealth-justice: or A letter to the Speaker of the present House of Commons. By Captain William Bray; for his captivity in Windsor-Castle.</title>
+                  <author>Bray, William, 17th cent.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165230:1" rendition="simple:additions"/>
+            <p>
+               <hi>Heaven</hi> and <hi>Earth, Spirit</hi> and <hi>Blood,</hi> DEMANDING <hi>REALL</hi> Commonwealth-Juſtice: OR A LETTER To the SPEAKER of the preſent Houſe of Commons.</p>
+            <p>
+               <hi>By Captain</hi> William Bray; <hi>From his Cap<g ref="char:EOLhyphen"/>tivity in</hi> Windſor-Caſtle.</p>
+            <q>
+               <bibl>
+                  <hi>ROM. 2.2, 6.</hi>
+               </bibl>
+               <p>But we are ſure that the judgment of God is according to truth, againſt them which commit ſuch things; Who will render to every man according to his deeds.</p>
+            </q>
+            <p>Imprinted at <hi>London,</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165230:2"/>
+            <pb n="1" facs="tcp:165230:2"/>
+            <opener>
+               <salute>Mr. <hi>Speaker,</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Did long ſince make my APPEAL in Parliament (as the fundamentall, Legal birthright of the People) for righteouſneſs and juſtice, and might have expected, that after ſuch glo<g ref="char:EOLhyphen"/>rious and unparallel'd Declarations, Covenants, Imprecations, Engage<g ref="char:EOLhyphen"/>ments, and actions; I ſhould have had a Legal, righteous, Chriſtian, Parliamentary, and impartial hearing, between the General and Me, according to the Ancient and juſt conſtitution of Authority in its firſt inſtitution in Scripture, <hi>Deut.</hi> 1.16, 17. and according to the many obligations that lye upon you from the Commands thereof, <hi>Deut.</hi> 16.19, 20.
+<note n="‖" place="margin">Is not judge<g ref="char:EOLhyphen"/>ment wreſted hitherto, when inſtead of a hearing I have a priſon, and an illegal one too; contrary to the infallible and funda<g ref="char:EOLhyphen"/>mental Rights of the people, and of juſt Government.</note> 
+               <hi>Thou ſhalt not wreſt Judgment; Thou ſhalt not re<g ref="char:EOLhyphen"/>ſpect perſons: That which is altogether juſt ſhalt thou follow,</hi> 2 <hi>Chron.</hi> 19.6<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>7. The contrary is abhorred, and judg<g ref="char:EOLhyphen"/>ment denounced againſt it, <hi>Eſay</hi> 1.23, 24 <hi>Jerem.</hi> 5.28, 29. &amp; 22.16, 17, 18. &amp; <hi>Amos</hi> 5.12. &amp; 6.12, 14.
+<pb n="2" facs="tcp:165230:3"/>
+               <hi>Mich.</hi> 3.9, 11. <hi>Job</hi> 20.6, 7, 19. Though his Excel<g ref="char:EOLhyphen"/>lency mount up to the Heavens, and his head reach to the clouds; yet he ſhall periſh for ever like his own dung: they which have ſeen him ſhall ſay, Where is he, becauſe he hath oppreſſed, <hi>Acts</hi> 10.34. <hi>James</hi> 2.9.</p>
+            <p>You have cut off the late King,
+<note place="margin">A juſt, ſub<g ref="char:EOLhyphen"/>ſtantiall and irrevocable Covenant, or Oath cannot be acted con<g ref="char:EOLhyphen"/>trary unto, without the guilt of perju<g ref="char:EOLhyphen"/>ry &amp; unſpeak<g ref="char:EOLhyphen"/>able dammage to the people.</note> ſo arbitrarily and forcibly, violating the Lawes and Liberties of the <hi>People,</hi> you have ſolemnly Sworn and Covenanted to ſight for, and maintain the Laws and Liberties of the people, and wiſhed the wrath and vengeance of Hea<g ref="char:EOLhyphen"/>ven and Earth to fall upon you if you did not main<g ref="char:EOLhyphen"/>taine the laws and liberties, as I have declared in my third appeale for Common-wealth-Juſtice, which re<g ref="char:EOLhyphen"/>maines dead in your hands (as I heare) and he that de<g ref="char:EOLhyphen"/>livered it to you (<hi>viz.</hi> Cornet <hi>Cheeſeman</hi>) was impri<g ref="char:EOLhyphen"/>ſoned by Lieutenant Generall <hi>Cromwel,</hi> &amp;c.</p>
+            <p>By Arbitrarineſſe, lawleſſeneſſe, power, force, ſtrength or the ſword (for it will amount to no other as to men) the Lord <hi>Jeſus</hi> the precious Sonne of the Moſt High, and the head of Saints was Crucified, butchered and maſſacred in his Liberties,
+<note place="margin">Mat. 10.30.</note> Freedoms and Rights of his humanity &amp;c. as appeares by the whole Scriptures of his Life, the confeſſions of his Judge, and his ſufferings. God, the People, the Laws and Conſcience,
+<note place="margin">Mat. 7.12.</note> are to be accounted unto for the loſſe of the meaneſt Member, or of any perſon or perſons unjuſtly deſtroyed; For the Lord and a juſt Law, ten<g ref="char:EOLhyphen"/>der innocent Bloud and the Liberties of his People; Chriſt the glorious Sonne of God perfectly declared the Laws of nature and juſtice.</p>
+            <p>You profeſſe your ſelves Chriſtians, yet in this you
+<pb n="3" facs="tcp:165230:3"/>live beneath the Common principles of nature, and in the path of former Tyrants whoſe bloud you have ſpilt as water upon the ground; if you walke contrary to the Law of nature, by power you juſtifie the Cru<g ref="char:EOLhyphen"/>cifying, butchering and maſſacring of the Lord <hi>Ieſus, &amp;c.</hi> and ſo fill up more and more the meaſure of blou<g ref="char:EOLhyphen"/>dy abominations.</p>
+            <p>I have not only been ſtifled in the rights of nature according to the reaſon of God,
+<note place="margin">If a ma<g ref="char:cmbAbbrStroke">̄</g> ſhould complaine to a Juſtice of Peace that ſuch a man rob'd him or ſought his life, would it be juſt that the Juſtice of Peace ſhould commit the ac<g ref="char:EOLhyphen"/>cuſer or com<g ref="char:EOLhyphen"/>plainer, and al<g ref="char:EOLhyphen"/>ſo to the Juriſ<g ref="char:EOLhyphen"/>diction of him that rob'd him &amp;c. What Law, Scrip<g ref="char:EOLhyphen"/>ture, Princi<g ref="char:EOLhyphen"/>ples of God or nature is for this?</note> and been dealt with contrary to the Scriptures, and ſent to an unlawfull Priſon, and to the Juriſdiction of him that hath dealt cruell y, barbarouſly, unnaturally, unchriſtian like, and tyrannically with me to my unſupportable dam<g ref="char:EOLhyphen"/>mage, loſſe and prejudice, as to humane conſiderati<g ref="char:EOLhyphen"/>ons; But the Warrant by which I am committed is contrary to Law, Generals being no crimes in Law; The Lord <hi>Cooks</hi> 2 <hi>part</hi> of <hi>Inſt. fol.</hi> 52, 53.315.318.511.615.616. 1 <hi>par. Book Dec. pa.</hi> 38.77.20.845. and the Votes upon the impeachment of the eleven Members and the Petition of Right the third of King <hi>C.</hi> and the Act that aboliſhed the Star-Chamber. And I am alſo committed (by the words of the Warrant) during pleaſure; whereas if the Warrant had been legall it would &amp; ſhould have bin, Til delivered by due courſe of Law (righteouſneſſe or juſtice.) And here, after I have expended my ſelfe and waſted my precious dayes and time in the Common-wealth in expectati<g ref="char:EOLhyphen"/>on of a glorious iſſue of the bloud that hath been ſhed: I have been barbarouſly kept in priſon without any humane conſideration all the while for my ſubſiſten<g ref="char:EOLhyphen"/>cy, far beyond the dealings of the late King, &amp;c.</p>
+            <p>Sir, I have only this as my laſt unto you or your
+<pb n="4" facs="tcp:165230:4"/>Houſe (ſeeing I have been ſo much neglected by you in the cauſe of Juſtice, and conſequently of the peo<g ref="char:EOLhyphen"/>ple, ſo that neither love to juſtice, nor importunity, hath moved you from me nor from others, neither for me nor for others) that you would move the Houſe that I may have freedom from my oppreſſive and il<g ref="char:EOLhyphen"/>legal Impriſonment and bonds, and have reparations for the ſame according to declared principles of the Almighty God, Nature, Scripture, the ſplendid De<g ref="char:EOLhyphen"/>clarations of your ſelves and my Adverſary, acknow<g ref="char:EOLhyphen"/>ledged reaſon, and the fundamentall Juſtice, Law, and Conſtitution of the Nation; and that I may have the undoubted freedom of a Commoner, a Chriſtian, and member of the People, to follow my Appeal in freedom, temperance and judgment (which is cer<g ref="char:EOLhyphen"/>tainly to come, at which <hi>Felix</hi> trembled) and to have a lawful, impartial and publick hearing, according to the nature of Law, Righteouſneſs, and the being and honour of Authority: and if neither wil be heard by your Houſe, I deſire you to acquaint them that the Nature of Juſtice, and the aforementioned principles do requre a juſt reſpect from them to me, and for my ſubſiſtency in priſon (which the King him<g ref="char:EOLhyphen"/>ſelf granted to his priſoners, and ſo was more juſt and merciful as to humane conſiderations) I having not had any juſt allowance from them ſince my bar<g ref="char:EOLhyphen"/>barous and arbitrary impriſonment; knowing that I have been cruelly and arbitrarily dealt with by the General, to my great dammage, as my third Appeal expreſſes. Which cruelty and injuſtice (conſidering my almoſt ſeven yeers Service in the Wars, for the cauſe of the kingdom) is one of the manifold occaſions
+<pb n="5" facs="tcp:165230:4"/>and engagements to an adamanine heart, much more to a true Patriot. And therefore now I will (the Lord willing) ſhut up my mouth, if I cannot have juſtice by this laſt Addreſs, and will ſurrender up my Body, Spi<g ref="char:EOLhyphen"/>rit and Cauſe to the high and mighty God, Judg, and Father, before whom all things are naked &amp; bare; and appeal to the next free Repreſentative or Parliament, in whom I hope there wil be faithfulneſs, holineſs, wiſdom and juſtice. And however my enemies may deal with my body, whether by murther, or other<g ref="char:EOLhyphen"/>wiſe (I being under the illegal Juriſdiction of my Adverſary, who hath dealt cruelly and unjuſtly with me) yet my Cauſe ſhall live in the preſence of the Lord, and the Generations preſent and to come, and ſhall be brought forth in the eternal judgment, where my Adverſary ſhall not appear in his gallant Equi<g ref="char:EOLhyphen"/>page, and where his large Summs and Lands of the Common-wealths, or being Generall of an Army (which ſhould be the Peoples) ſhall be found too light; and where he ſhall have no Parliaments to ter<g ref="char:EOLhyphen"/>rifie from the doing of juſtice.</p>
+            <p>And if they do murther me, I ſhal go before,
+<note place="margin">The Grandees of the Armie ſaid in Deel of the 14. of <hi>June,</hi> That <hi>Juſtice is one of the wit<g ref="char:EOLhyphen"/>neſſes of God in the earth.</hi> Be<g ref="char:EOLhyphen"/>ware.</note> and they wil follow after. And moreover, let me tell you, Mr. Speaker, my blood may as ſenſibly riſe, as living blood in the hearts (if not faces) of your Houſe who have un<g ref="char:EOLhyphen"/>juſtly committed me to the Juriſdiction of my adver<g ref="char:EOLhyphen"/>ſary, who, its probable, thirſts after my blood, aſwel as to rob and deprive me of my liberties and rights. But I truſt, the Lord wil make me willing to reſigne up my blood aſwel as my Liberties to ſatisfie his pleaſure aſ<g ref="char:EOLhyphen"/>wel as the crueltie and inhumanity of Juſtice-ene<g ref="char:EOLhyphen"/>mies, for in a due and ſerious conſideration it is the Lords and the Peoples. Sir, I hope you will excuſe me, that I ſpeak what I do, and conſider that the Lord
+<pb n="6" facs="tcp:165230:5"/>hath given me an opportunity to hold forth his Ex<g ref="char:EOLhyphen"/>cellency and Soveraignty againſt one that is called Excellency; and nature hath given me an occaſion, as to my Country, and my ſelf, and alſo that the Ty<g ref="char:EOLhyphen"/>ranny and cruelty I am under is no ſmall force upon my ſpirit. So leaving you and your Houſe to the judgment of the great day of the Lord, and the Lords faithful people in the Land, I take my laſt farewel, and reſt,</p>
+            <closer>
+               <signed>Yours, If you will be the Nations, <hi>WILL. BRAY.</hi>
+               </signed>
+               <dateline>
+                  <hi>From my cruell, arbitrary and cauſeleſſe Priſon and Indu<g ref="char:EOLhyphen"/>rance (by that everlaſting (to be) accurſed principle by which</hi> Abel, Naboth, <hi>and the Lord Jeſus Chriſt, and many in our late dayes were crucified and maſſa<g ref="char:EOLhyphen"/>cred.)</hi>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
